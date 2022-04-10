@@ -1,6 +1,6 @@
 # Presentation For Neural Networks Seminar (Recurrent Neural Networks)
 
-## The topics covered in this seminar:
+## The topics covered in this presentation:
 
 1. Vanishing Gradients & Solutions
    - Activation Functions (Sigmoid, Tanh, ReLu, Leaky ReLu)
